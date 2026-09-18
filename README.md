@@ -15,7 +15,7 @@
 
 ## Live Dashboard
 
-**→ [Open the interactive dashboard](PASTE_YOUR_STREAMLIT_URL_HERE)**
+**→ [Open the interactive dashboard](https://mental-health-tech-funnel-eda.streamlit.app/)**
 
 Seven sections that follow the funnel, with live filters for gender, age, country, company size and remote-work status. Every chart responds to the filters.
 
