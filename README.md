@@ -178,5 +178,5 @@ Stated plainly, because they bound every conclusion above:
 
 ---
 
-**Author:** Aniket
+**Author:** Adarsh
 *Analytical use only — not clinical guidance.*
